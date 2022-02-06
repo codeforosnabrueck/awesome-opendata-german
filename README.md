@@ -29,6 +29,7 @@ Wenn Daten als Open Data bereitgestellt werden, sollte den NutzerInnen unmissver
 
 - [Beschlussvorlage "Open Data" aus **Münster**](https://www.stadt-muenster.de/sessionnet/sessionnetbi/getfile.php?id=418200&type=do) beschlossen am 14. März 2018 im Rat der Stadt Münster; Teil des Projekts ["Digitale Stadt Münster - Digitalisierungsstrategie der Stadtverwaltung"](https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004042826&voselect=10896)
   - Wegen Anträgen der FDP-Fraktion für "Apps für die Stadtgesellschaft" kam aus der Verwaltung der Vorschlag, lieber "Open Data" freizugeben, statt Apps zu entwickeln. Entsprechend wurde im Rahmen eines Förderprogramms "Kommunales Open Government in NRW" bereits "Open Data" veröffentlicht und es wurden "Open Data"-Grundsätze entwickelt. Als Meilenstein des Förderprojekts wird der Münsterhack genannt und als Ausblick der "Open Data Day" erwähnt, der zusammen mit Code for Münster organisiert wurde.
+- [Datennutzungsklauseln für kommunale Verträge](https://github.com/od-ms/datennutzungsklauseln-muster) – Formulierungen für ein „Musterlastenheft kommunale Datenhoheit“ der Städte Bonn und Münster als Bestandteil des Leistungsverzeichnisses bei Beschaffungen bzw. Vergabeverfahren
   
  ## Aktuelle Informationen an der Schnittstelle zur Mobilität
  - [Protokolle des **Open Transport Meetup**](https://github.com/transportkollektiv/meetup/wiki) (rechts im Wiki als Unterseiten verlinkt).
