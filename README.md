@@ -20,7 +20,8 @@ Wenn Daten als Open Data bereitgestellt werden, sollte den NutzerInnen unmissver
 * [Was ist Creative Commons Zero?](https://irights.info/artikel/was-ist-cc0/28750) – Einordnung der CC-0-Lizenz
 * [Kritik an NonCommercial-Lizenzen](https://irights.info/artikel/oer-creative-commons-noncommercial/28879) – mit Verweis auf weiterführende Broschüren mit Frequently Asked Questions
 * [Free Data](http://simia.net/wiki/Free_data) – Argumentation von Denny Vrandečić zur Gemeinfreiheit von reinen Faktendaten, und warum die „Lizenzierung“ auf Basis des Urheberrechts hier strategisch gefährlich sein könnte
-* [Empfehlung der Europäischen Kommission für Creative Commons 4.0](https://ec.europa.eu/jrc/en/news/commission-makes-it-even-easier-citizens-reuse-all-information-it-publishes-online) – vom März 2019, auch für die Veröffentlichung von Daten
+* [Empfehlung der Europäischen Kommission für Creative Commons 4.0](https://digital-strategy.ec.europa.eu/en/news/rules-reuse-commission-information) – vom März 2019, auch für die Veröffentlichung von Daten
+  * [Reuse policy - A study on available reuse implementing instruments and licensing considerations](https://op.europa.eu/en/publication-detail/-/publication/971c48e2-51e3-11e9-a8ed-01aa75ed71a1) – Studie der EU-Kommission, die der Entscheidung zugrunde lag
 * [Stellungnahme von Mathias Schindler](https://www.bundestag.de/resource/blob/338566/b05a12fb8dbfbab56423bc0c9c3a75d8/stellungnahme_schindler-data.pdf) – vom November 2014 im Bundestagsausschuss Digitale Agenda, auch zu notwendigen Reformen des Urheberrechts (immer noch aktuell)
 * [The European Commission should repeal extra rights for databases](https://creativecommons.org/2017/08/30/european-commission-repeal-extra-rights-databases/) – Creative Commons spricht sich im Herbst 2017 für die Abschaffung des europäischen Datenbankherstellerrechts aus
 
