@@ -36,6 +36,7 @@ Wenn Daten als Open Data bereitgestellt werden, sollte den NutzerInnen unmissver
 ## Weiterführende Listen
 
 * [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit)
+* [opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns): Sammelung häufiger dysfunktionaler Muster, mit denen die Veröffentlichung von Open Data leicht zu einem Beispiel für „das Gegenteil von gut ist gut gemeint“ wird
 
 ## Lizenz
 
