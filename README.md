@@ -25,6 +25,12 @@ Wenn Daten als Open Data bereitgestellt werden, sollte den NutzerInnen unmissver
 * [Stellungnahme von Mathias Schindler](https://www.bundestag.de/resource/blob/338566/b05a12fb8dbfbab56423bc0c9c3a75d8/stellungnahme_schindler-data.pdf) – vom November 2014 im Bundestagsausschuss Digitale Agenda, auch zu notwendigen Reformen des Urheberrechts (immer noch aktuell)
 * [The European Commission should repeal extra rights for databases](https://creativecommons.org/2017/08/30/european-commission-repeal-extra-rights-databases/) – Creative Commons spricht sich im Herbst 2017 für die Abschaffung des europäischen Datenbankherstellerrechts aus
 
+## Linked Open Data
+
+[The Next Web](https://www.ted.com/talks/tim_berners_lee_the_next_web) – _Der_ TED-Talk von Tim Berners-Lee, der im Februar 2009 alles auslöste. Die um diese Zeit entstandenen Texte wie z.B. [5stardata](https://5stardata.info/de/) oder der [Linked-Data-Artikel von TBL selber (2006!)](https://www.w3.org/DesignIssues/LinkedData.html) gehen vielfach noch von Mikroformaten in Websites aus. Mittlerweile sind der Tech-Stack und damit auch die Möglichkeiten gewachsen, siehe “Querying on a decentralized web” weiter unten.
+
+* [Einführungsvideo des Fitzwilliam Museum (2:00)](https://www.youtube.com/watch?v=mMR6JQ1M6qE) und [Teil 2 mit einer konkreteren Erklärung (03:24)](https://www.youtube.com/watch?v=0m79yDb4AzE)
+* [Querying on a decentralized web](https://www.youtube.com/watch?v=LUF7plExdv8) – Vortrag von 2018, der die Unterschiede „App auf API“ zu „Queries über dezentralisierte Endpunkte“ und die möglichen Folgen aufzeigt.
 
 ## Beispiele aus anderen Kommunen
 
